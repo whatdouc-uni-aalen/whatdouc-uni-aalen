@@ -1,6 +1,6 @@
 ![WhatDoUC Logo](./assets/whatdouc-logo.png)
 
-# WhatDoUC (root)
+# WhatDoUC
 
 This the code repository of the WhatDoUC Project. The project consists of several sub components, which are available under separate repositories. 
 
