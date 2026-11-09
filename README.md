@@ -8,7 +8,7 @@ The easiest way to get the whole project is cloning the [whatdouc-root](https://
 
 Please refer to the following paper:
 
-@article{YOMUT20264550,
+@article{
     title = {WhatDoUC: Image labeling on mobile devices},
     journal = {Procedia Computer Science},
     volume = {292},
